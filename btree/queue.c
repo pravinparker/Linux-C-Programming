@@ -8,7 +8,7 @@
 
      
 
-    #define MAX 50
+    #define MAX 50//MAX replaced by 50
 
     int queue_array[MAX];
 
